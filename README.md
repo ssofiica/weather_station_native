@@ -1,1 +1,3 @@
-# weather_station_native
+# Двухстраничное приложение на React Native
+### В ветке app
+
